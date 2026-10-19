@@ -1,0 +1,23 @@
+{
+  "cohort_type": "later_collected_phishtank_phishing_only",
+  "final_evaluation_rows": 61,
+  "N": 61,
+  "positive_class": 1,
+  "threshold": 0.5,
+  "TP": 40,
+  "FN": 21,
+  "recall": 0.6557377049180327,
+  "true_positive_rate": 0.6557377049180327,
+  "false_negative_rate": 0.3442622950819672,
+  "detection_rate": 0.6557377049180327,
+  "recall_ci95_lower": 0.5304974914056819,
+  "recall_ci95_upper": 0.7625249103965452,
+  "accuracy": "NOT_APPLICABLE_SINGLE_CLASS",
+  "precision": "NOT_APPLICABLE_SINGLE_CLASS",
+  "f1": "NOT_APPLICABLE_SINGLE_CLASS",
+  "specificity": "NOT_APPLICABLE_SINGLE_CLASS",
+  "false_positive_rate": "NOT_APPLICABLE_SINGLE_CLASS",
+  "roc_auc": "NOT_APPLICABLE_SINGLE_CLASS",
+  "average_precision": "NOT_APPLICABLE_SINGLE_CLASS",
+  "mcc": "NOT_APPLICABLE_SINGLE_CLASS"
+}

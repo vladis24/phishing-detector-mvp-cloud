@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "sha256": {
+    "output/final_test_evaluation/models/F02_RF_A08.joblib": "8ba5c2743b5f0af05b438bb629ac88dc3daba4914fe20b9bed11bd7630e5e4a0",
+    "output/final_test_evaluation/primary_model_result.json": "a0268e4eac0f2e1f65790e9b1d2bfa7f41203bd1579509ba72628b818bca2f3e",
+    "output/feature_ablation/feature_subsets.json": "20f492bf8f8cc86e366d59bf901faf6add962273f1fe957c41d357f48bde0c64",
+    "output/phase11_structural_robustness/phase11_summary.json": "6fad743834481146c30c228f660210e0a59048205c58044e1a81893c66067d5d",
+    "output/model_interpretability/group_permutation_importance.csv": "ec05457632efc979c4d5d5fc9415bb18c5619b3e1d328f0ed5b308eeb1a68f49",
+    "output/final_test_evaluation/final_test_metrics.csv": "8006b37593b8cec0743a0e3aab8e75ea72bd351d4365d94e4ccab9ebcb9dc012",
+    "output/feature_ablation/ablation_results.csv": "567752b3b57cc26b5576002cc8a4a2d8d9a663bfff3ea6b1e9791a2abf4c6fb6",
+    "output/temporal_evaluation/temporal_metrics.json": "0811a79f651c8124cef6f5978743a756ea359e8ada879246df5e24378d4aa630",
+    "output/phase11_structural_robustness/phase11_model_summary.csv": "db547db3b9ffd6649f24972bf162b708bcfe85fcd315f278cfce8122d371e53d",
+    "output/phase11_structural_robustness/figures/primary_probability_shift.png": "941473cc168588afe526004d5878c4eb60a4f9460e965ff6424c8da335fe0f05",
+    "tests/pages/01_static_simple.html": "337205462d892b0554e46f08450a3d5a1e37e864f3f7fabcc39749d915416ec9",
+    "robustness/originals/O01_STATIC_LOGIN.html": "efdaf140a25976446d8fa14b6add825fa4c2283ff250c8a540fb4e9ce81e6e66",
+    "robustness/variants/O01_STATIC_LOGIN_M04_1500.html": "3a4adb4c194a06db4ac47ccf9e007d481b12029d59d88b9cf8182955e6fa31d6"
+  }
+}

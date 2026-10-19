@@ -1,0 +1,50 @@
+{
+  "configuration_id": "F02_RF_A08",
+  "model": "RandomForestClassifier",
+  "representation": "A08_FULL_137",
+  "feature_count": 137,
+  "training_rows": 2363,
+  "test_rows": 417,
+  "fixed_before_test": true,
+  "hyperparameters": {
+    "class_weight": null,
+    "max_depth": null,
+    "max_features": "sqrt",
+    "min_samples_leaf": 1,
+    "n_estimators": 300,
+    "n_jobs": 1,
+    "random_state": 2026
+  },
+  "test_metrics": {
+    "accuracy": 0.9016786570743405,
+    "precision": 0.9367088607594937,
+    "recall": 0.8268156424581006,
+    "f1": 0.8783382789317508,
+    "roc_auc": 0.9654006854138304,
+    "average_precision": 0.960756678323487,
+    "matthews_corrcoef": 0.8007462594140767,
+    "tn": 228,
+    "fp": 10,
+    "fn": 31,
+    "tp": 148,
+    "specificity": 0.957983193277311,
+    "false_positive_rate": 0.04201680672268908,
+    "false_negative_rate": 0.17318435754189945
+  },
+  "confusion_matrix": [
+    [
+      228,
+      10
+    ],
+    [
+      31,
+      148
+    ]
+  ],
+  "confusion_matrix_label_order": [
+    0,
+    1
+  ],
+  "primary_configuration_changed": false,
+  "interpretation": "Pre-registered primary method; not necessarily the numerically highest test score."
+}
